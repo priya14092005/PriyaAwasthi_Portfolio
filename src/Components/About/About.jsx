@@ -2,7 +2,7 @@ import React from 'react'
 import "./About.css"
 import Card from "../Card/Card"
 import mern from "../../assets/mern.png"
-import javascript from "../../assets/javascript.png"
+import javascript from "../../assets/Javascript.png"
 import dsa from "../../assets/dsa.png"
 import {useGSAP} from "@gsap/react"
 import gsap from "gsap"
